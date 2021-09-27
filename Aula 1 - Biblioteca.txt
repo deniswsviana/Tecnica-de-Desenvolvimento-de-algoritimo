@@ -1,0 +1,20 @@
+ Chamar biblioteca
+#include <"biblioteca">
+
+Funcao main é obrigatorio para comecar a programar em C
+int   = inteiro
+float = numeros quebrados
+
+sempre colocar ponto e virgula ;
+//encerra a instrucao
+
+return = retorno da funcao
+// encerra a funcao
+ 
+
+inicio e fim usa chave {}
+
+\n pula linha
+\t = tab dentro 
+\" = aspas na tela 
+// usa barra invertida para escrever caracter especial na tela. 

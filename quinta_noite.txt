@@ -1,0 +1,24 @@
+/*
+Nome das variáveis
+Não pode começar com número
+Não pode ser uma palavra reservada da linguagem
+não pode ter espaço 
+não pode ter caractere especial: + - * @$&
+-------------------------------------------------------------
+
+1) Ler um número inteiro pelo teclado.
+Mostrar o número lido na tela.
+
+Entrada ----->  Processamento --> Saída
+Ler 1 nº            --            Mostrar o nº tela
+*/
+
+#include <stdio.h>
+int main()
+{ 
+  int coração;
+  printf ("Digite um número inteiro:  ");   
+  scanf ("%d",&coração);
+  printf ("O número digitado foi %d",coração);
+  return 0;  
+}
